@@ -87,3 +87,6 @@ Párrafo 1.
 <!-- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
+
+<img width="3072" height="2066" alt="image" src="https://github.com/user-attachments/assets/00b926d9-00ef-4664-99f3-b34b71d91b6f" />
+
